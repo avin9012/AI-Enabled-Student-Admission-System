@@ -9,8 +9,8 @@
         <allowDelegate>false</allowDelegate>
         <assignedApprover>
             <approver>
+                <name>Manager</name>
                 <type>userHierarchyField</type>
-                <userHierarchyField>Manager</userHierarchyField>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
         </assignedApprover>

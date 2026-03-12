@@ -1,0 +1,5 @@
+Hello {!Enrollment__c.Student__r.Name},
+
+Your enrollment for {!Enrollment__c.Course__r.Name} has been approved.
+
+Thank you.
